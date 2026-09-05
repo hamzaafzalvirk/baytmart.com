@@ -1,0 +1,15 @@
+{
+  "name": "BaytMart | Everyday essentials",
+  "short_name": "BaytMart",
+  "description": "Thoughtful technology, home accents, and useful objects for everyday living.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f8f3",
+  "theme_color": "#17231d",
+  "lang": "en",
+  "icons": [
+    { "src": "/pwa-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
